@@ -1,5 +1,6 @@
 import { Slot } from "expo-router";
 import React from "react";
+import "../../global.css";
 
 import { useColorScheme } from "@/hooks/useColorScheme";
 
